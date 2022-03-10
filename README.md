@@ -1,1 +1,1 @@
-# reddit-subs-to-price-change
+# socials
